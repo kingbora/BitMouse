@@ -1,0 +1,10 @@
+{
+    "files": [
+        "src/block.ts"
+    ],
+    "compilerOptions": {
+        "outDir":"./dist",
+        "noImplicitAny": true,
+        "target": "es5"
+    }
+}
